@@ -1,0 +1,2 @@
+# Note for application testing
+The application has been developed and tested by enabling the device toolbar on the inspector of the browser. Specifically, it has been designed for iPhone X dimensions (375x812).  
